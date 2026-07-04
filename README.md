@@ -152,9 +152,6 @@ public class Sathyaseelan {
 
 </div>
 
-> 📌 *Add your LeetCode / HackerRank / competitive programming stats or hackathon wins here once available — e.g.:*
-> `![LeetCode](https://img.shields.io/badge/LeetCode-Solved%20XXX-FFA116?style=flat-square&logo=leetcode&logoColor=white)`
-
 ---
 
 ### 🎓 Education
