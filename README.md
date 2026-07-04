@@ -89,25 +89,25 @@ public class Sathyaseelan {
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sathyaseelan02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathyaseelan06&layout=compact&theme=tokyonight&hide_border=true" width="30%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathyaseelan02&layout=compact&theme=tokyonight&hide_border=true" width="30%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=sathyaseelan06&theme=tokyonight&hide_border=true" width="80%"/>
+<img src="https://streak-stats.demolab.com?user=Sathyaseelan02&theme=tokyonight&hide_border=true" width="80%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sathyaseelan06&theme=tokyo-night&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sathyaseelan02&theme=tokyo-night&hide_border=true" width="95%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sathyaseelan06&theme=onedark&no-frame=true&no-bg=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Sathyaseelan02&theme=onedark&no-frame=true&no-bg=true&row=1&column=7"/>
 
 </div>
 
